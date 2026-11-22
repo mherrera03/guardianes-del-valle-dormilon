@@ -65,7 +65,12 @@ docs/capturas/  Capturas para este README
 
 ## Integrantes
 
-- [Nombre 1]
-- [Nombre 2]
-- [Nombre 3]
-- [Nombre 4]
+-Olga Michelle Gutierrez Rivera
+-Mariana Herrera Márquez  
+-Edwin René González Bonilla 
+-Erick Fernando Mayen Castillo 
+-Francisco René Ruiz Bolaños 
+-Carlos Eduardo Mejia Luna
+-Jonathan David Flores Dimas 
+-Luis Antonio Barrera Zelaya 
+-Fredy Alexander Funes Ortiz
